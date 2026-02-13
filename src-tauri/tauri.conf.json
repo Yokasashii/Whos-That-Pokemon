@@ -10,9 +10,12 @@
     "withGlobalTauri": true,
     "windows": [
       {
-        "title": "whos-that-pokemon",
-        "width": 800,
-        "height": 600
+        "title": "Who's that Pokemon?",
+        "width": 1102,
+        "height": 567,
+        "resizable": false,
+        "fullscreen": false,
+        "center": true
       }
     ],
     "security": {
